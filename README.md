@@ -21,7 +21,7 @@ Cordova 版本：3.x / 4.x / 5.x
 打开控制台，进入 Cordova 项目目录，输入：
 
 ```bash
-cordova plugin add https://github.com/ETENG-OSP/xgpush-cordova --save \
+cordova plugin add https://github.com/Wzhex/xgpush-cordova --save \
   --variable ACCESS_ID="Your Access ID" \
   --variable ACCESS_KEY="Your Access Key"
 ```
